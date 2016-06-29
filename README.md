@@ -12,6 +12,6 @@ NOTE: DO NOT use JavaScript’s built-in sorting function (Array.prototype.sort)
 
 Example:
 
-Input                           Output
+Input              ->             Output
 
 [ 20, -10, -10, 2, 4, 299 ] -> [ -10, -10, 2, 4, 20, 299 ]
