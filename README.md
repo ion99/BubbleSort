@@ -9,3 +9,9 @@ Once it gets to the end of the array, it starts over and repeats the process unt
 Implement a function that takes an array and sorts it using this technique.
 
 NOTE: DO NOT use JavaScript’s built-in sorting function (Array.prototype.sort).
+
+Example:
+
+Input                           Output
+
+[ 20, -10, -10, 2, 4, 299 ] -> [ -10, -10, 2, 4, 20, 299 ]
